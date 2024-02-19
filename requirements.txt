@@ -14,5 +14,12 @@ PyPDF2
 pdfplumber
 pandasql
 sqlalchemy==1.4.46
-python-graphviz
-pydot
+graphviz
+matplotlib
+numpy
+pandas
+plotly
+requests
+streamlit_timeline
+streamlit-player
+typing-extensions
